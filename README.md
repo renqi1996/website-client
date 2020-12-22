@@ -35,5 +35,5 @@ $ or npm run dev:electron
 
 # Todo List
 
-- [ ] React & TypeScript Config optimize
-- [ ] Webpack optimize
+- [ ] React & TypeScript Config optimization
+- [ ] Webpack optimization
