@@ -18,7 +18,8 @@ $ git clone git@github.com:renqi1996/website-client.git
 
 ```
 $ yarn install
-$ or npm install
+$ or 
+$ npm install
 ```
 
 - Run in seperate terminal:
